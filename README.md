@@ -1,2 +1,4 @@
-# Diwali-Sales-Analysis
- Diwali Sales Analysis examines consumer behavior and sales trends during the festive season, identifying top products, peak days, and key demographics. It helps businesses optimize marketing, improve targeting, and boost revenue through data-driven insights on promotions and purchasing patterns.
+# Python_Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+
+## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
